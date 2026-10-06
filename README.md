@@ -1,5 +1,3 @@
-<div align="center">
-
 # Seduh Santai
 
 *One cup. Countless stories.*
@@ -11,8 +9,6 @@ Specialty coffee experience rooted in slow mornings, intentional craftsmanship, 
 <img src="./hero.png" alt="Seduh Santai - Specialty Coffee Experience" height="260" />
 
 <br />
-
-</div>
 
 ### The Essence
 
