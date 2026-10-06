@@ -57,7 +57,11 @@ npm run dev
 npm run build
 ```
 
-#### 4. Backend Service (Optional Contact Form)
+#### 4. Deploy to GitHub Pages
+- **Automatic (GitHub Actions)**: Pushing to `main` triggers `.github/workflows/deploy.yml` automatically.
+- **Manual Command**: Run `npm run deploy` to build and publish directly to the `gh-pages` branch.
+
+#### 5. Backend Service (Optional Contact Form)
 ```sh
 node server.js
 ```
